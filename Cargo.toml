@@ -1,0 +1,4 @@
+[package]
+authors = ["Benjamin Gill"]
+name = "rustfmt_example"
+version = "0.1.0"
